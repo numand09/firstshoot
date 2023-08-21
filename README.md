@@ -6,5 +6,5 @@ bang.
 
 eeeeesss
 aaas
-kk
+kk ibo cok akillidir
 qq
