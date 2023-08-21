@@ -1,3 +1,3 @@
-#First Shoot
+# First Shoot
 
-bang!
+bang.
